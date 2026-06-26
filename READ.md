@@ -69,37 +69,21 @@ This project demonstrates the working principles of a basic flight stabilization
 
 ## 📷 Project Gallery
 
-<table>
-<tr>
-<td align="center">
-
 ### PCB Assembly
 
-<img src="PASTE_FIRST_GITHUB_ATTACHMENT_LINK_HERE" width="400">
+![PCB Assembly](https://github.com/user-attachments/assets/PASTE_PCB_ATTACHMENT_LINK_HERE)
 
-</td>
-
-<td align="center">
+---
 
 ### Working Model
 
-<img src="PASTE_SECOND_GITHUB_ATTACHMENT_LINK_HERE" width="400">
+![Working Model](https://github.com/user-attachments/assets/PASTE_WORKING_MODEL_ATTACHMENT_LINK_HERE)
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
+---
 
 ### Serial Monitor Output
 
-<img src="PASTE_THIRD_GITHUB_ATTACHMENT_LINK_HERE" width="850">
-
-</td>
-</tr>
-</table>
-
-##  Output
+![Serial Monitor Output](https://github.com/user-attachments/assets/PASTE_SERIAL_MONITOR_ATTACHMENT_LINK_HERE)
 
 ```text
 Roll : -8.80°
