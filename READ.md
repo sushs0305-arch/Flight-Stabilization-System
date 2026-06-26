@@ -72,20 +72,29 @@ This project demonstrates the working principles of a basic flight stabilization
 <table>
 <tr>
 <td align="center">
-<img src="images/pcb.jpeg" width="420"><br>
-<b>PCB Assembly</b>
+
+### PCB Assembly
+
+<img src="PASTE_FIRST_GITHUB_ATTACHMENT_LINK_HERE" width="400">
+
 </td>
 
 <td align="center">
-<img src="images/flight_controller.jpg" width="420"><br>
-<b>Working Model</b>
+
+### Working Model
+
+<img src="PASTE_SECOND_GITHUB_ATTACHMENT_LINK_HERE" width="400">
+
 </td>
 </tr>
 
 <tr>
 <td colspan="2" align="center">
-<img src="images/controller.png" width="850"><br>
-<b>Serial Monitor Output</b>
+
+### Serial Monitor Output
+
+<img src="PASTE_THIRD_GITHUB_ATTACHMENT_LINK_HERE" width="850">
+
 </td>
 </tr>
 </table>
