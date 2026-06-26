@@ -65,6 +65,8 @@ This project demonstrates the working principles of a basic flight stabilization
 ---
 
 ##  Project Images
+
+![PCB Assembly](https://raw.githubusercontent.com/sushs0305-arch/Flight-Stabilization-System/main/images/pcb.jpeg)
 ## PCB Assembly
 
 ![PCB Assembly](pcb.jpeg)
