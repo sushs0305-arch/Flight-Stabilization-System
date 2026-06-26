@@ -65,23 +65,17 @@ This project demonstrates the working principles of a basic flight stabilization
 ---
 
 ##  Project Images
-### PCB Assembly
+## PCB Assembly
 
 ![PCB Assembly](pcb.jpeg)
 
-### Working Model
+## Working Model
 
 ![Working Model](flight_controller.jpg)
 
-### Serial Monitor Output
+## Serial Monitor Output
 
 ![Serial Monitor](controller.png)
-
-
-![Working Model](https://raw.githubusercontent.com/sushs0305-arch/Flight-Stabilization-System/main/images/flight_controller.jpg)
-
-![Serial Monitor](https://raw.githubusercontent.com/sushs0305-arch/Flight-Stabilization-System/main/images/controller.png)
----
 
 ##  Output
 
