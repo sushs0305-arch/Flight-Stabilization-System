@@ -71,7 +71,7 @@ This project demonstrates the working principles of a basic flight stabilization
 
 ### PCB Assembly
 
-![PCB Assembly](https://github.com/user-attachments/assets/PASTE_PCB_ATTACHMENT_LINK_HERE)
+![PCB Assembly]("C:\Users\LENOVO\Downloads\WhatsApp Image 2026-06-26 at 7.56.42 PM.jpeg")
 
 ---
 
