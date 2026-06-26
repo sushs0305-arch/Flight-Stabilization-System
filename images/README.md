@@ -65,20 +65,19 @@ This project demonstrates the working principles of a basic flight stabilization
 ---
 
 ##  Project Images
-
 ### PCB Assembly
-##  PCB Assembly
-[PCB Assembly](C:\Users\LENOVO\Downloads\WhatsApp Image 2026-06-26 at 7.56.42 PM.jpeg)
 
-
+![PCB Assembly](pcb.jpeg)
 
 ### Working Model
 
-*(C:\Users\LENOVO\Downloads\WhatsApp Image 2026-06-26 at 7.56.42 PM.jpeg)*
+![Working Model](flight_controller.jpg)
 
 ### Serial Monitor Output
 
-*(Upload your Serial Monitor screenshot here)*
+![Serial Monitor](controller.png)
+
+
 
 ---
 
