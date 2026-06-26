@@ -67,8 +67,7 @@ This project demonstrates the working principles of a basic flight stabilization
 ## 📷 Project Images
 
 ### PCB Assembly
-
-*(Upload your PCB image here)*
+"C:\Users\LENOVO\Downloads\WhatsApp Image 2026-06-26 at 7.56.42 PM.jpeg"
 
 ### Working Model
 
